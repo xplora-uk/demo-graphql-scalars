@@ -1,0 +1,18 @@
+{
+  "name": "demo-graphql-scalars",
+  "version": "1.0.0",
+  "description": "Demo GraphQL service using custom scalar types",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.9.3",
+    "graphql": "^16.8.1",
+    "graphql-scalars": "^1.22.2"
+  }
+}
