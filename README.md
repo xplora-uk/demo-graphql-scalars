@@ -17,3 +17,9 @@ npm i
 ```sh
 node .
 ```
+
+## usage
+
+```sh
+open http://localhost:4000/graphql
+```
